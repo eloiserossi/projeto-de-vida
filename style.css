@@ -60,7 +60,7 @@ body {
 .botoes {
     display: block;
 }
-
+verde
 .botao.ativo {
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--azul);
@@ -87,7 +87,7 @@ body {
 
 .aba-conteudo-titulo-secundario {
     text-align: center;
-    color: var(--verde);
+    color: var(--roxo);
     text-transform: uppercase;
 }
 
@@ -110,7 +110,7 @@ body {
 }
 
 .contador-digito-texto {
-    color: var(--verde);
+    color: var(--roxo);
     font-size: 20px;
     margin: 0;
 

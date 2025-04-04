@@ -87,7 +87,7 @@ verde
 
 .aba-conteudo-titulo-secundario {
     text-align: center;
-    color: var(--roxo);
+    color: var(--vermelho);
     text-transform: uppercase;
 }
 
@@ -110,7 +110,7 @@ verde
 }
 
 .contador-digito-texto {
-    color: var(--roxo);
+    color: var(--branco);
     font-size: 20px;
     margin: 0;
 
